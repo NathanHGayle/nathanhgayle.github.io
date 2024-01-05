@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan H Gayle"
-  avatar           : "images/NathanHGayle.jpg"
+  avatar           : "NathanHGayle.jpg"
   bio              : "BI Analyst, completing MSc in Data Science and Artificial Intelligence"
   location         : "UK"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "NathanHGayle"
   google_plus      :
   keybase          :
   instagram        :
