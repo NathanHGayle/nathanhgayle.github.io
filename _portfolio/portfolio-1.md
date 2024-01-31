@@ -4,4 +4,4 @@ excerpt: "Filter to surface 'Gambling Premises Per Capita', 'Deprivation Rank (I
 collection: portfolio
 ---
 
-<iframe title="UK Gambling Premises, National Socio-Economic Class and Deprivation Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
