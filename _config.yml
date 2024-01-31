@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: # publications noted this out to remove from navigaton
     values:
       layout: single
       author_profile: true
