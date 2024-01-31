@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Business Intelligence Dashboard"
+excerpt: "Filter to surface 'Gambling Premises Per Capita', 'Deprivation Rank (IMD Rank 2019)' and the majority 'National Socio-Econoic Class' in your constituency. Navigate to the relationships views, to view the correlations between these measures at a national view, what does this mean for your local community?  1<br/><img src='/images/gambling_premises_dashboard_custom_search_thumbnail.png'>"
 collection: portfolio
 ---
 
