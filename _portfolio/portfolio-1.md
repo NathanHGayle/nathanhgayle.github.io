@@ -6,3 +6,4 @@ collection: portfolio
   <!-- <br/><img src='/images/gambling_premises_dashboard_custom_search_thumbnail.png'> -->
 ---
 <iframe title="UK Gambling Premises, National Socio-Economic Class and Deprivation Dashboard" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9" frameborder="0" allowFullScreen="true"></iframe>
+Use the arrows (1-4) at the bottom of the dashboard to view all pages!
