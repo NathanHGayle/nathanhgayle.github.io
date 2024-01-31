@@ -12,7 +12,7 @@ The purpose of this site is to share the analytics projects that I am most passi
 
 Projects 
 ------
-### The relationship between gambling premises, deprivation, and national socio-economic class in the UK
+### How do UK Gambling Premises link to Deprivation and National Socio-Economic Class?
 
 Exploring the correlation between gambling premises and deprivation and gambling premises and national socio-economic class. This project aims to instigate conversations in local communities and assist in discussions with local councils around accepting new applications for gambling premises or addressing the presence of exisitng premises. 
 
