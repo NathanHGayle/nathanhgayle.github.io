@@ -177,16 +177,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
+  #publications:
+  #  output: false
+  #  permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-    uk_gambling_premises_dashboard: "https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9"
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
+
 
 
 # Defaults
