@@ -1,6 +1,9 @@
 ---
 title: "Business Intelligence Dashboard"
-excerpt: "Filter to surface 'Gambling Premises Per Capita', 'Deprivation Rank (IMD Rank 2019)' and the majority 'National Socio-Econoic Class' in your constituency. Navigate to the relationships views, to view the correlations between these measures at a national view, what does this mean for your local community?  <br/><img src='/images/gambling_premises_dashboard_custom_search_thumbnail.png'> [Visit Dashboard In Separate Broswer](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9)"
+excerpt: "Filter to surface 'Gambling Premises Per Capita', 'Deprivation Rank (IMD Rank 2019)' and the majority 'National Socio-Econoic Class' in your constituency. Navigate to the relationships views, to view the     
+           correlations between these measures at a national view, what does this mean for your local community?  <br/><img src='/images/gambling_premises_dashboard_custom_search_thumbnail.png'> [Visit Dashboard In Separate 
+           Broswer](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9)"
 collection: portfolio
-<iframe title="UK Gambling Premises, National Socio-Economic Class and Deprivation Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9" frameborder="0" allowFullScreen="true"></iframe>
+            <iframe title="UK Gambling Premises, National Socio-Economic Class and Deprivation Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view? 
+ r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9" frameborder="0" allowFullScreen="true"></iframe>
 ---
