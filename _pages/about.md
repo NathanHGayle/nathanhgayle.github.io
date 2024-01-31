@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The purpose of this site is to share the analytics projects that I am most passionate about. Drawing insights and meaning from new data can be challenging, but I have found it to be highly rewarding.
+The purpose of this site is to share the analytics projects that I am most passionate about. Drawing insights and meaning from new data is highly rewarding.
 
 Projects 
 ------
