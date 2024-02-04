@@ -1,10 +1,11 @@
 ---
-title: "The UK Gambling Premises, Deprivation and National Socio-Economic Class Dashboard"
-excerpt: "Filter to surface 'Gambling Premises Per Capita', 'Deprivation Rank (IMD Rank 2019)' and the majority 'National Socio-Econoic Class' in your constituency. Navigate to the relationships views, to view the     
-           correlations between these measures at a national view, what does this mean for your local community? [Visit Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9) [![Dashboard Thumbnail](/images/gambling_premises_dashboard_custom_search_thumbnail.png)](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9)"
+title: "The Link Between UK Gambling Premises, Deprivation and National Socio-Economic Class"
+excerpt: "Read the findings, and summary of this analysis below or view these insight on the interractive dashboard. Don't miss any pages (4 pages in total!) as we explore the metrics for your selected constituency, the correlations between all these variables and what this means to you and for your local community"
 collection: portfolio
   <!-- <br/><img src='/images/gambling_premises_dashboard_custom_search_thumbnail.png'> -->
 ---
+Scroll-down to see the interactive dashboard.
+
 ## Findings
 
 Gambling premises are positioned near those who have:
@@ -15,7 +16,7 @@ Gambling premises are positioned near those who have:
 - Involuntarily excluded from the labor market (Employment).
 - More at risk of premature death and impairment of the quality of life through poor physical or mental health (Health).
 
-## How we know
+## Evidence and Insights
 It was discovered that as gambling premises increase, the percentage of individuals grouped as 'Never Worked / Long-Term Unemployment' by national socio-economic class (NSEC) increases. Conversely, as the percentage of individuals grouped as 'Intermediate Occupations' and 'Managerial, Administrative, and Professional Occupations' by NSEC decreases. Also, as gambling premises increase, the Index of Multiple Deprivation (IMD 2019) Rank decreases - where 1 represents the most deprived areas. This is particularly true for 'Crime', 'Income', 'Employment', and 'Health' but also for domains 'Education, Skills and Training' and 'Living Environment'.
 
 ## Methodology
@@ -54,6 +55,7 @@ This is a page for you to view these measures in one place for your own Constitu
 - What is the degree of association between these variables (coefficients / strength of relationship)?
 - What can we deduce from this statistical evidence?
 
+[Visit Dashboard Here Or Scroll-Down To See The Embeded Version](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9) [![Dashboard Thumbnail](/images/gambling_premises_dashboard_custom_search_thumbnail.png)](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9)
 
 Use the arrows (1-4) at the bottom of the dashboard to view all pages.
 
