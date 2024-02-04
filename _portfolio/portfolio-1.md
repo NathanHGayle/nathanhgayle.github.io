@@ -28,7 +28,6 @@ The code (Python) that prepares the data for this dashboard is currently in a pr
 ## Navigating the dashboard!
 
 **Page One:**
-This is a page for you to view these measures in one place for your own Constituency (or others). You can use this page to see:
 - How many gambling premises are there?
 - How many gambling premises per capita in the selected constituency?
 - How does this rank against other constituencies?
