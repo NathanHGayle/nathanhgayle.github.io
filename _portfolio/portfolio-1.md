@@ -8,49 +8,52 @@ collection: portfolio
 ## Findings
 
 Gambling premises are positioned near those who have:
-           + Never worked, faced long-term unemployed.
-           + Engaged in full-time education. 
-           + More at risk of local criminal victimisation (Crime).
-           + Experiencing income deprivation (Income)'
-           + Involuntarily excluded from the labour market (Employment).
-           + More at risk of premature death and impairment of quality of life through poor physical or mental health                     (Health).
+- Never worked, faced long-term unemployment.
+- Engaged in full-time education.
+- More at risk of local criminal victimization (Crime).
+- Experiencing income deprivation (Income).
+- Involuntarily excluded from the labor market (Employment).
+- More at risk of premature death and impairment of the quality of life through poor physical or mental health (Health).
 
 ## How we know
-It was discovered that as gambling premises increase, the percentage of individuals grouped as 'Never Worked / Long-Term Unemployment' by national socio-economic class (NSEC) increase. Conversely, as the percentage of individuals grouped as 'Intermediate Occupations' and 'Managerial, Administrative, and Professional Occupations' by NSEC decreases. 
-    Also, as gambling premises increase, the Index of Multiple Deprivation (IMD 2019) Rank decreases - where 1 represents the most deprived areas. This is particularly true for 'Crime', 'Income', Employment' and 'Health' but also for domains 'Education, Skills and Training' and 'Living Environment'.
+It was discovered that as gambling premises increase, the percentage of individuals grouped as 'Never Worked / Long-Term Unemployment' by national socio-economic class (NSEC) increases. Conversely, as the percentage of individuals grouped as 'Intermediate Occupations' and 'Managerial, Administrative, and Professional Occupations' by NSEC decreases. Also, as gambling premises increase, the Index of Multiple Deprivation (IMD 2019) Rank decreases - where 1 represents the most deprived areas. This is particularly true for 'Crime', 'Income', 'Employment', and 'Health' but also for domains 'Education, Skills and Training' and 'Living Environment'.
 
-## Methodology 
-This was achieved by examining the correlations between 'Total Gambling Premisies', 'National Socio-Economic Class' groups and the 'Indices of Deprivation (IMD 2019)' groups by Constituency. This statistical evidence corroborates the relationships that are readily discernible when visualized on scatter-plot charts (refer to pages 2-4 in the dashboard). 
+## Methodology
+This was achieved by examining the correlations between 'Total Gambling Premises,' 'National Socio-Economic Class' groups, and the 'Indices of Deprivation (IMD 2019)' groups by Constituency. This statistical evidence corroborates the relationships that are readily discernible when visualized on scatter-plot charts (refer to pages 2-4 in the dashboard).
+
+## Code
+The code (Python) that prepares the data for this dashboard is currently in a private repository. Please contact Nathan for information on data sources, and code requests.  
 
 ## Navigating the dashboard!
 
-Page One:
+**Page One:**
 This is a page for you to view these measures in one place for your own Constituency (or others). You can use this page to see:
-+ How many gambling premises are there?
-+ How many gambling premises per capita in the selected constituency?
-+ How does this rank against other constituencies?
-+ Where are these gambling premises positioned on a map?
-+ What types of gambling premises are these?
-+ What are the brand/companies of these gambling premises?
-+ What is the percentage breakdown per national socio-economic class (NSEC) by selected constituency?
-+ Which NSEC group is highest for the selected constituency?
-+ What is the breakdown of deprivation measures by domain for the selected constituency?
-+ What is the worst scored deprivation domain for the selected constituency?
+- How many gambling premises are there?
+- How many gambling premises per capita in the selected constituency?
+- How does this rank against other constituencies?
+- Where are these gambling premises positioned on a map?
+- What types of gambling premises are these?
+- What are the brand/companies of these gambling premises?
+- What is the percentage breakdown per national socio-economic class (NSEC) by the selected constituency?
+- Which NSEC group is highest for the selected constituency?
+- What is the breakdown of deprivation measures by domain for the selected constituency?
+- What is the worst scored deprivation domain for the selected constituency?
 
-#### Page Two
-+ What is the correlation bewteen Total Gambling Premises and the National Socio-Economic Class Groupings?
-+ What is the degree of association between these two variables (coefficients / strength of relationship)?
-+ What can we deduce from this statistial evidence?
+**Page Two:**
+- What is the correlation between Total Gambling Premises and the National Socio-Economic Class Groupings?
+- What is the degree of association between these two variables (coefficients / strength of relationship)?
+- What can we deduce from this statistical evidence?
 
-#### Page Three
-+ What is the correlation bewteen Total Gambling Premises and the Indices of Deprivation (IMD 2019) Groupings
-+ What is the degree of association between these two variables (coefficients / strength of relationship)?
-+ What can we deduce from this statistial evidence?
+**Page Three:**
+- What is the correlation between Total Gambling Premises and the Indices of Deprivation (IMD 2019) Groupings?
+- What is the degree of association between these two variables (coefficients / strength of relationship)?
+- What can we deduce from this statistical evidence?
 
-#### Page Four
-+ What is the correlation between Total Gambling Premises, Index of Deprivation Rank and Population size?
-+ What is the degree of association between these variables (coefficients / strength of relationship)?
-+ What can we deduce from this statistial evidence?
+**Page Four:**
+- What is the correlation between Total Gambling Premises, Index of Deprivation Rank, and Population size?
+- What is the degree of association between these variables (coefficients / strength of relationship)?
+- What can we deduce from this statistical evidence?
+
 
 Use the arrows (1-4) at the bottom of the dashboard to view all pages.
 
