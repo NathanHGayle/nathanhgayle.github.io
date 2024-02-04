@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-The purpose of this site is to share the analytics projects that I am most passionate about. Drawing insights and meaning from new data is highly rewarding.
+Welcome to my personal data analytics hub! This site serves as a showcase for the analytics projects that fuel my passion for unraveling insights from diverse datasets. Exploring new data and extracting meaningful patterns is not just a professional pursuit for me; it's a rewarding journey. Join me as I navigate through data and tell unique stories, discovering hidden gems in the vast landscape of information available online.
 
 Projects 
 ------
-### How do UK Gambling Premises link to Deprivation and National Socio-Economic Class?
+### What Is The Link Between Gambling Premises, Deprivation and National Socio-Economic Class?
 
-Exploring the correlation between gambling premises and deprivation and gambling premises and national socio-economic class. This project aims to instigate conversations in local communities and assist in discussions with local councils around accepting new applications for gambling premises or addressing the presence of exisitng premises.
+This project explores the correlations between gambling premises, deprivation and national socio-economic class. It aims to instigate conversations in local communities and assist in discussions with local councils around accepting new applications for gambling premises or addressing the presence of exisitng premises.
 
 ![Gambling Premises link to Deprivation and National Socio-Economic Class](../images/Gambling_Premises_UK_Dashboard_Nathan_Hastings_Gayle.png)
