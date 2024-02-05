@@ -8,13 +8,13 @@ Scroll-down to see the interactive dashboard.
 
 ## Findings
 
-Gambling premises are positioned near those who have:
-- Never worked, faced long-term unemployment.
-- Engaged in full-time education.
-- More at risk of local criminal victimization (Crime).
-- Experiencing income deprivation (Income).
-- Involuntarily excluded from the labor market (Employment).
-- More at risk of premature death and impairment of the quality of life through poor physical or mental health (Health).
+Gambling premises are positioned near those who:
+- Have never worked, faced long-term unemployment.
+- Are engaged in full-time education.
+- Are more at risk of local criminal victimization (Crime).
+- Have experienced income deprivation (Income).
+- Are involuntarily excluded from the labor market (Employment).
+- Are more at risk of premature death and impairment of the quality of life through poor physical or mental health (Health).
 
 ## Evidence and Insights
 It was discovered that as gambling premises increase, the percentage of individuals grouped as 'Never Worked / Long-Term Unemployment' by national socio-economic class (NSEC) increases. Conversely, as the percentage of individuals grouped as 'Intermediate Occupations' and 'Managerial, Administrative, and Professional Occupations' by NSEC decreases. Also, as gambling premises increase, the Index of Multiple Deprivation (IMD 2019) Rank decreases - where 1 represents the most deprived areas. This is particularly true for 'Crime', 'Income', 'Employment', and 'Health' but also for domains 'Education, Skills and Training' and 'Living Environment'.
