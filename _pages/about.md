@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal data analytics hub! This site serves as a showcase for the analytics projects that fuel my passion for unraveling insights from diverse datasets. Exploring new data and extracting meaningful patterns is not just a professional pursuit for me; it's a rewarding journey. Join me as I navigate through data and tell unique stories, discovering hidden gems in the vast landscape of information available online.
+Welcome to my personal data analytics hub! This site serves as a showcase for the analytics projects that fuel my passion for unravelling insights from diverse datasets. Exploring new data and extracting meaningful patterns is not just a professional pursuit for me; it's a rewarding journey. Join me as I navigate through data and tell unique stories, discovering hidden gems in the vast landscape of information available online.
 
 Projects 
 ------
