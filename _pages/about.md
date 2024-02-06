@@ -17,3 +17,5 @@ Projects
 This project explores the correlations between gambling premises, deprivation and national socio-economic class. It aims to instigate conversations in local communities and assist in discussions with local councils around accepting new applications for gambling premises or addressing the presence of exisitng premises.
 
 ![Gambling Premises link to Deprivation and National Socio-Economic Class](../images/Gambling_Premises_UK_ Dashboard_Nathan_Hastings_Gayle.png)
+
+![Read more!]([https://nathanhgayle.github.io/portfolio/](https://nathanhgayle.github.io/portfolio/portfolio-1/)https://nathanhgayle.github.io/portfolio/portfolio-1/)
