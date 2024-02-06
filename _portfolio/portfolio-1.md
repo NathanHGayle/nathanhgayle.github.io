@@ -54,7 +54,7 @@ The code (Python) that prepares the data for this dashboard is currently in a pr
 - What is the degree of association between these variables (coefficients / strength of relationship)?
 - What can we deduce from this statistical evidence?
 
-[Visit Dashboard Here Or Scroll-Down To See The Embeded Version](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9) [![Dashboard Thumbnail](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9)
+[Visit Dashboard Here Or Scroll-Down To See The Embeded Version](https://app.powerbi.com/view?r=eyJrIjoiY2ZiZTU2MTUtMjk0OS00ZDJiLWEwMGItNzZiYzg3YTYzMjI5IiwidCI6IjgyMmRkYmEwLWFkNjAtNDE2Zi1iNDRlLTEwMzdlNzRkNTI5OSJ9)
 
 Use the arrows (1-4) at the bottom of the dashboard to view all pages.
 
