@@ -23,7 +23,7 @@ It was discovered that as gambling premises increase, the percentage of individu
 This was achieved by examining the correlations between 'Total Gambling Premises,' 'National Socio-Economic Class' groups, and the 'Indices of Deprivation (IMD 2019)' groups by Constituency. This statistical evidence corroborates the relationships that are readily discernible when visualized on scatter-plot charts (refer to pages 2-4 in the dashboard).
 
 ## Code
-The code (Python) that prepares the data for this dashboard is currently in a private repository. Please contact Nathan for information on data sources, and code requests.  
+The code (Python) that prepares the data for this dashboard is [here](https://github.com/NathanHGayle/gambling_premises_uk).  
 
 ## Navigating the dashboard!
 
